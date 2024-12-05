@@ -1,0 +1,14 @@
+C:\Users\Vitor Cunha\Desktop\Anotações\dev\Projetos_C#\ExecicioUsuario\ExecicioUsuario\bin\Debug\net8.0\ExecicioUsuario.exe
+C:\Users\Vitor Cunha\Desktop\Anotações\dev\Projetos_C#\ExecicioUsuario\ExecicioUsuario\bin\Debug\net8.0\ExecicioUsuario.deps.json
+C:\Users\Vitor Cunha\Desktop\Anotações\dev\Projetos_C#\ExecicioUsuario\ExecicioUsuario\bin\Debug\net8.0\ExecicioUsuario.runtimeconfig.json
+C:\Users\Vitor Cunha\Desktop\Anotações\dev\Projetos_C#\ExecicioUsuario\ExecicioUsuario\bin\Debug\net8.0\ExecicioUsuario.dll
+C:\Users\Vitor Cunha\Desktop\Anotações\dev\Projetos_C#\ExecicioUsuario\ExecicioUsuario\bin\Debug\net8.0\ExecicioUsuario.pdb
+C:\Users\Vitor Cunha\Desktop\Anotações\dev\Projetos_C#\ExecicioUsuario\ExecicioUsuario\obj\Debug\net8.0\ExecicioUsuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor Cunha\Desktop\Anotações\dev\Projetos_C#\ExecicioUsuario\ExecicioUsuario\obj\Debug\net8.0\ExecicioUsuario.AssemblyInfoInputs.cache
+C:\Users\Vitor Cunha\Desktop\Anotações\dev\Projetos_C#\ExecicioUsuario\ExecicioUsuario\obj\Debug\net8.0\ExecicioUsuario.AssemblyInfo.cs
+C:\Users\Vitor Cunha\Desktop\Anotações\dev\Projetos_C#\ExecicioUsuario\ExecicioUsuario\obj\Debug\net8.0\ExecicioUsuario.csproj.CoreCompileInputs.cache
+C:\Users\Vitor Cunha\Desktop\Anotações\dev\Projetos_C#\ExecicioUsuario\ExecicioUsuario\obj\Debug\net8.0\ExecicioUsuario.dll
+C:\Users\Vitor Cunha\Desktop\Anotações\dev\Projetos_C#\ExecicioUsuario\ExecicioUsuario\obj\Debug\net8.0\refint\ExecicioUsuario.dll
+C:\Users\Vitor Cunha\Desktop\Anotações\dev\Projetos_C#\ExecicioUsuario\ExecicioUsuario\obj\Debug\net8.0\ExecicioUsuario.pdb
+C:\Users\Vitor Cunha\Desktop\Anotações\dev\Projetos_C#\ExecicioUsuario\ExecicioUsuario\obj\Debug\net8.0\ExecicioUsuario.genruntimeconfig.cache
+C:\Users\Vitor Cunha\Desktop\Anotações\dev\Projetos_C#\ExecicioUsuario\ExecicioUsuario\obj\Debug\net8.0\ref\ExecicioUsuario.dll
